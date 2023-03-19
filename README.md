@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @samaraitiu
 - 👀 I’m currently interested in a.i., vr, and video games
-- 🌱 I’m currently learning python (self study)
-- 💞️ I’m looking to collaborate on video game projects, or geo-type
-- 📫 How to reach me ....
+- 🌱 I’m currently learning java, python, html/css
+- 💞️ I’m looking to collaborate on ... tbd
+- 📫 How to reach me .... tbd
